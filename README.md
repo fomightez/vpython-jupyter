@@ -11,7 +11,8 @@ This fork is presently just to restore VPython working from MyBinder launches be
 In addition to specifying the Python version, I added some packages I commonly use. And so keep in mind it can be even easier than this if you don't need those othter packages yourself.
 
 
-## If you prefer your choice of Jupyter interface....
+## If you prefer your choice of Jupyter interface...
 
-JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)  
+JupyterLab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)  
+JupyterLab already in full-featured mode:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)   
 Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter//main?urlpath=%2Ftree%2Findex.ipynb)
