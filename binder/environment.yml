@@ -1,0 +1,13 @@
+name: vpython-jupyter-for-mybinder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12 
+  - numpy 
+  - pandas
+  - seaborn
+  - rich
+  - vpython
+  - pip
+  - pip:
+    - loguru
