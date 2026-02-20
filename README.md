@@ -13,6 +13,9 @@ In addition to specifying the Python version, I added some packages I commonly u
 
 ## If you prefer your choice of Jupyter interface...
 
-JupyterLab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)  
-JupyterLab already in full-featured mode:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)   
-Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter//main?urlpath=%2Ftree%2Findex.ipynb)
+JupyterLab:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/HEAD?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)  
+JupyterLab already in full-featured mode:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)   
+Jupyter Notebook 7+:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/vpython-jupyter//main?urlpath=%2Ftree%2Findex.ipynb)
