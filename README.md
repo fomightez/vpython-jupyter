@@ -1,4 +1,4 @@
-# VPython working in Jupyter served via MyBinder service.
+# VPython working in Jupyter served via MyBinder service
 
 **This is a fork of https://github.com/vpython/vpython-jupyter .**  
 Please refer to https://github.com/vpython/vpython-jupyter is you are interested in current VPython development.
